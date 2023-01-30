@@ -156,8 +156,8 @@ Se necesitarán al menos este personal para iniciar las clases:
 ### Gastos Base
 
 * **Sueldos:**
-  * **Director Académico:** $6,000.00 MXN
-  * **Coordinación:** $5,000.00 MXN
+  * **Director Académico:** $4,800.00 MXN ~~$6,000.00 MXN~~
+  * **Coordinación:** $4,000.00 MXN ~~$5,000.00 MXN~~
   * **Administrador General:** $ MXN _Checar_
   * **Maestro de Instrumento:** $2,400.00 - $2,800.00 MXN ~~$3,000.00 - $3,500.00 MXN~~
   * **Maestro de Materia:** $2,400.00 - $2,800.00 MXN ~~$3,000.00 - $3,500.00 MXN~~

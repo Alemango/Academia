@@ -159,10 +159,10 @@ Se necesitarán al menos este personal para iniciar las clases:
   * **Director Académico:** $6,000.00 MXN
   * **Coordinación:** $5,000.00 MXN
   * **Administrador General:** $ MXN _Checar_
-  * **Maestro de Instrumento:** $3,000.00 MXN
-  * **Maestro de Materia:** $3,000.00 MXN
-  * **Maestro de Infantil:** $3,000.00 MXN
-  * **Persona General:** $2,000.00 MXN
+  * **Maestro de Instrumento:** $2,400.00 - $2,800.00 MXN ~~$3,000.00 - $3,500.00 MXN~~
+  * **Maestro de Materia:** $2,400.00 - $2,800.00 MXN ~~$3,000.00 - $3,500.00 MXN~~
+  * **Maestro de Infantil:** $2,400.00 - $2,800.00 MXN ~~$3,000.00 - $3,500.00 MXN~~
+  * **Persona General:** $1,600.00 - $2,000.00 MXN ~~$3,000.00 - $3,500.00 MXN~~
 
 ### Gastos Extra:
   
